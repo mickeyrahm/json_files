@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "EMERALD"
+        "REGION": "EMERALD",
+        "CODES": ["2039"]
       },
       "geometry": {
         "coordinates": [
@@ -3695,7 +3696,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "FORGOTTEN"
+        "REGION": "FORGOTTEN",
+        "CODES": ["2038"]
       },
       "geometry": {
         "coordinates": [
@@ -5690,7 +5692,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "NATURE"
+        "REGION": "NATURE",
+        "CODES": ["3103", "1741", "2035", "1740"]
       },
       "geometry": {
         "coordinates": [
@@ -7024,7 +7027,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "CENTRAL NORTH"
+        "REGION": "CENTRAL NORTH",
+        "CODES": ["1566"]
       },
       "geometry": {
         "coordinates": [
@@ -8226,7 +8230,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "FIRST"
+        "REGION": "FIRST",
+        "CODES": ["2036", "1876", "2035", "1877"]
       },
       "geometry": {
         "coordinates": [
@@ -9516,7 +9521,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "SUN"
+        "REGION": "SUN",
+        "CODES": ["2040"]
       },
       "geometry": {
         "coordinates": [
@@ -11346,7 +11352,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "CULTURE"
+        "REGION": "CULTURE",
+        "CODES": ["2041"]
       },
       "geometry": {
         "coordinates": [
@@ -12237,7 +12244,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "CENTRAL WEST"
+        "REGION": "CENTRAL WEST",
+        "CODES": ["3412"]
       },
       "geometry": {
         "coordinates": [
@@ -12751,7 +12759,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "LEE ISLAND"
+        "REGION": "LEE ISLAND",
+        "CODES": ["2032"]
       },
       "geometry": {
         "coordinates": [
@@ -14155,7 +14164,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "GOLD"
+        "REGION": "GOLD",
+        "CODES": ["1683"]
       },
       "geometry": {
         "coordinates": [
@@ -14204,7 +14214,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "SOUTH DADE"
+        "REGION": "SOUTH DADE",
+        "CODES": ["2042"]
       },
       "geometry": {
         "coordinates": [
@@ -14297,7 +14308,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "CENTRAL EAST"
+        "REGION": "CENTRAL EAST",
+        "CODES": ["3404"]
       },
       "geometry": {
         "coordinates": [
@@ -14406,7 +14418,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "TREASURE"
+        "REGION": "TREASURE",
+        "CODES": ["2034"]
       },
       "geometry": {
         "coordinates": [
@@ -14467,7 +14480,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "CENTRAL"
+        "REGION": "CENTRAL",
+        "CODES": ["9"]
       },
       "geometry": {
         "coordinates": [
@@ -15129,7 +15143,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "SPACE"
+        "REGION": "SPACE",
+        "CODES": ["2033", "1878", "2899"]
       },
       "geometry": {
         "coordinates": [
@@ -15687,7 +15702,8 @@
     {
       "type": "Feature",
       "properties": {
-        "REGION": "THE KEYS"
+        "REGION": "THE KEYS",
+        "CODES": ["11"]
       },
       "geometry": {
         "coordinates": [
