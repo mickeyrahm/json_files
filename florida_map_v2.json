@@ -5693,7 +5693,7 @@
       "type": "Feature",
       "properties": {
         "REGION": "NATURE",
-        "CODES": ["3103", "1741", "2035", "1740"]
+        "CODES": ["3103"]
       },
       "geometry": {
         "coordinates": [
@@ -8231,7 +8231,7 @@
       "type": "Feature",
       "properties": {
         "REGION": "FIRST",
-        "CODES": ["2036", "1876", "2035", "1877"]
+        "CODES": ["2036"]
       },
       "geometry": {
         "coordinates": [
@@ -15144,7 +15144,7 @@
       "type": "Feature",
       "properties": {
         "REGION": "SPACE",
-        "CODES": ["2033", "1878", "2899"]
+        "CODES": ["2899"]
       },
       "geometry": {
         "coordinates": [
